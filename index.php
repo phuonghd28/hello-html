@@ -1,6 +1,6 @@
-<?php include_once("thuchanh1.html"); ?>
+<?php include_once("index.html"); ?>
 
 
 
 
-Type a message
+
