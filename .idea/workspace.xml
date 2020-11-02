@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cf9defe-d1f8-4785-ac38-c0da6f0442c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Bai-Tap-Ngay-2/Lab2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai-Tap-Ngay-2/lab2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai-Tap-ngay-1/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai-Tap-ngay-1/Test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +76,8 @@
       <workItem from="1603848079914" duration="9378000" />
       <workItem from="1603861611857" duration="75000" />
       <workItem from="1603949468145" duration="1354000" />
-      <workItem from="1604279305727" duration="4796000" />
+      <workItem from="1604279305727" duration="11019000" />
+      <workItem from="1604323291529" duration="2724000" />
     </task>
     <servers />
   </component>
@@ -91,5 +95,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604290771344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604290771344" />
   </component>
 </project>

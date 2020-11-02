@@ -1,0 +1,29 @@
+div{
+    margin: 0px 300px;
+}
+h1{
+    text-align: center;
+    text-transform:uppercase;
+}
+p{
+    font-family: Tahoma;
+    font-size: 11px;
+}
+ul{
+    font-family: Consolas;
+}
+li{
+    font-family: Consolas;
+}
+.important-red{
+    color: red;
+
+}
+.red-dark{
+    color:red;
+    font-weight: bold;
+}
+.important-green{
+    color: green;
+    text-decoration:underline;
+}
